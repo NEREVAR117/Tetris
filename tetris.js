@@ -19,7 +19,7 @@ let curTetromino = [[1,0], [0,1], [1,1], [2,1]]
 // A list of existing tetrominos
 let tetrominos = []
 // Colors that match each specific type of tetromino
-let tetrominoColors = ['purple','cyan','blue','yellow','orange','green','red']
+let tetrominoColors = ['mediumorchid','deepskyblue','blue','gold','orange','limegreen','crimson']
 // Stores the current tetromino's color
 let curTetrominoColor
 
